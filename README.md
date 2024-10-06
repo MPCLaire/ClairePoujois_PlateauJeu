@@ -1,2 +1,2 @@
 # ClairePoujois_PlateauJeu
-Quand le joueur arrive à la fin du plateau, il s'arrête. Pour l'instant il y a deux joueurs qui jouent à tour de rôle, mais ils se supperposent. Aussi il y a des erreurs à la fin si on relance le dé, mais elles ne font rien 
+Quand le joueur arrive à la fin du plateau, il s'arrête. Pour l'instant il y a deux joueurs qui jouent à tour de rôle
