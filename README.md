@@ -1,2 +1,2 @@
 # ClairePoujois_PlateauJeu
-Quand le joueur arrive à la fin du plateau, il s'arrête. J'ai essayé de mettre en place un deuxième joueur mais pour l'instant je n'y arrive pas.
+Quand le joueur arrive à la fin du plateau, il s'arrête. Pour l'instant il y a deux joueurs qui jouent à tour de rôle. Je sais qu'il y a des erreurs quand on arrive à la fin, mais elles ne font rien alors ...
